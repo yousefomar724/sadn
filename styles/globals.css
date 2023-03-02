@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Almarai';
+  src: url('/fonts/Almarai-Regular.woff');
+}
+@font-face {
+  font-family: 'light';
+  src: url('/fonts/GE_SS_Unique_Light.woff');
+}
